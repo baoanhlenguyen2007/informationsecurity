@@ -10,6 +10,7 @@ import WifiManager from "./screens/WifiManager";
 import SystemClean from './screens/SystemClean';
 import NotiCenter from './screens/NotiCenter';
 
+
 const Stack = createNativeStackNavigator();
 
 export default function App() {
