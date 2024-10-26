@@ -3,6 +3,8 @@ import { AppStoreIcon, ChromeIcon, FaceTimeIcon, FacebookIcon, GoogleCalenderIco
 import { vw, vh } from "react-native-expo-viewport-units";
 import { NavigationContainer, useNavigation } from "@react-navigation/native";
 import componentStyle, { colorStyle, useCustomFonts } from "../assets/componentStyleSheet";
+
+
 export default function DATA() {
     const navigation = useNavigation();
     const [appList, setAppList] = useState([
