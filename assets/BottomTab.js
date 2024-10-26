@@ -6,6 +6,8 @@ import { colorStyle, useCustomFonts } from "../assets/componentStyleSheet";
 import Svg, { SvgUri, SvgXml } from 'react-native-svg';
 import { vw, vh, vmax, vmin } from 'react-native-expo-viewport-units';
 
+
+
 import Home from '../screens/Home';
 import PreLoad from '../screens/PreLoad';
 import WifiManager from '../screens/WifiManager';
