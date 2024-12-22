@@ -1,4 +1,5 @@
 import React from "react";
+
 import Svg, { SvgUri, SvgXml } from 'react-native-svg';
 
 export const searchIcon = () => {
