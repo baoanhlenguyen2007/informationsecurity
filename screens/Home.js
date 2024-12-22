@@ -9,6 +9,8 @@ import { SvgXml } from "react-native-svg";
 import componentStyle, { colorStyle, useCustomFonts } from "../assets/componentStyleSheet";
 import DATA from "../assets/DATA";
 
+
+
 export default function HomeScreen() {
 
     // const [isActive, setIsActive] = useState(false);
