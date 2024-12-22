@@ -2,6 +2,7 @@ import { StyleSheet } from 'react-native';
 import { vw, vh } from 'react-native-expo-viewport-units';
 import { useFonts } from 'expo-font';
 
+
 import {
     NotoSans_100Thin,
     NotoSans_100Thin_Italic,
