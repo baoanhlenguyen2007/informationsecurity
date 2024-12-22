@@ -8,6 +8,7 @@ import { vw, vh } from "react-native-expo-viewport-units";
 import { Svg, SvgXml } from "react-native-svg";
 import componentStyle, { colorStyle, useCustomFonts } from "../assets/componentStyleSheet";
 
+
 export default function WifiManager() {
 
     const [wifiTypeSellected, setWifiTypeSellected] = useState(0);
