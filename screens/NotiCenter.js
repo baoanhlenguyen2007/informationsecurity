@@ -9,6 +9,8 @@ import { SvgXml } from "react-native-svg";
 import componentStyle, { colorStyle, useCustomFonts } from "../assets/componentStyleSheet";
 import DATA from "../assets/DATA";
 
+
+
 export default function NotiCenter() {
     const navigation = useNavigation();
     const { notiList, setNotiList } = DATA();
