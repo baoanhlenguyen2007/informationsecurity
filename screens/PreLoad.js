@@ -7,6 +7,7 @@ import styles from "../assets/stylesheet";
 import { colorStyle } from "../assets/componentStyleSheet";
 import { SvgXml } from "react-native-svg";
 
+
 function PreLoad() {
     const [fontsLoaded] = useCustomFonts();
     const navigation = useNavigation();
