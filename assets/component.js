@@ -8,6 +8,7 @@ import { searchIcon, infoIcon, leftArrow, shareIcon, heartDouble, bookmark, Xbut
 import { useNavigation } from '@react-navigation/native';
 import { useNavigatio, NavigationContainer } from '@react-navigation/native';
 
+
 // export const logoBar = ([w, h], title, environmentColor, profileSoure, icon, fnc) => {
 //     const navigation = useNavigation();
 
